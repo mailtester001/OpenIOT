@@ -341,6 +341,7 @@
 #endif
 #define ENABLE_DRIVER_IR						1
 #define ENABLE_DRIVER_RC						1
+// IR2 enabled: raw IR transmission via SendIR2 (LQ-Y06 / BK7231N)
 #define ENABLE_DRIVER_IR2					1
 #define ENABLE_DRIVER_DS1820					1
 #define ENABLE_DRIVER_CHT83XX					1
